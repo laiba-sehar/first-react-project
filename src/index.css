@@ -15,8 +15,9 @@ body {
   align-items: center;
   min-height: 100vh;
   /* background-color: lightcoral; */
-  background: url('./Components/Assets/network-connection-background-abstract-style_23-2148875738.avif')
-  no-repeat;
+  /* background: url('./Components/Assets/network-connection-background-abstract-style_23-2148875738.avif')
+  no-repeat; */
+  background: url('./assets/network-connection-background-abstract-style_23-2148875738.avif') no-repeat;
   background-size: cover;
   background-position: center;
 }
